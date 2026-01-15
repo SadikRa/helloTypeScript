@@ -7,3 +7,10 @@ type person = {
     job: 'non';
     skill: 'jack of all trader'
 }
+
+interface target {
+    course: 'dars a nazami';
+    subject: 'quran , hadith, fiqh, arabic grammar, arabic language, usool a quran, usool a hadith, aqeedah, seerah, history, locgic, ect';
+    duration: 'life time';
+    
+}
