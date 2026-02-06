@@ -17,5 +17,12 @@ interface target {
 
 
 
+function greet (name: string): string{
+    return`hello, ${name}`
+}
+
+console.log(greet("sadik"));
 
 
+// let message: string = 'Hello World from TypeScript!';
+// console.log(message);
