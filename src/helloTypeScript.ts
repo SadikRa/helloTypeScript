@@ -23,7 +23,3 @@ console.log(greet("sadik"));
 // let message: string = 'Hello World from TypeScript!';
 // console.log(message);
 
-
-/// well hello 28 february
-
-
