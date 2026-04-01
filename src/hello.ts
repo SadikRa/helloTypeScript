@@ -26,3 +26,7 @@ const user = {
 let namea: string = "sadik";
 
 ///https://www.w3schools.com/typescript/typescript_explicit_inference.php
+
+// no hello welcome
+
+//  كَيْفَ اَنَ
