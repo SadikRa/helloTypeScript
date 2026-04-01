@@ -30,3 +30,5 @@ let namea: string = "sadik";
 // no hello welcome
 
 //  كَيْفَ اَنَ
+
+// you can do It go and lessin lot of free motivation video then you will be flying
