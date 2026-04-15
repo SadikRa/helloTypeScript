@@ -37,3 +37,14 @@ function cllass(name: string): string {
 
 // console.log(cllass("sadik"));
 
+interface useri {
+  name: string;
+  roll: number
+}
+
+const users: useri = {
+ name: "sadk",
+ roll: 70
+}
+
+// console.log(users);
