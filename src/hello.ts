@@ -53,3 +53,20 @@ const names: string[] = []
 
 names.push('sadik');
 
+const car = {
+  type: 'bmw'
+}
+car.type = 'ford'
+
+enum CardinalDirections {
+  North,
+  East,
+  South,
+  West
+}
+let currentDirection = CardinalDirections.North;
+// logs 0
+console.log(currentDirection);
+// throws error as 'North' is not a valid enum
+
+///https://www.w3schools.com/typescript/typescript_aliases_and_interfaces.php
