@@ -48,3 +48,8 @@ const users: useri = {
 }
 
 // console.log(users);
+
+const names: string[] = []
+
+names.push('sadik');
+
