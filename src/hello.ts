@@ -25,10 +25,15 @@ const user = {
 
 let namea: string = "sadik";
 
-///https://www.w3schools.com/typescript/typescript_explicit_inference.php
+///15/ 4/ 26/
 
-// no hello welcome
+let greeting: string = "hello, sadik";
 
-//  كَيْفَ اَنَ
+let useCount: number = 300;
 
-// you can do It go and lessin lot of free motivation video then you will be flying
+function cllass(name: string): string {
+  return `hello ${name}`;
+}
+
+// console.log(cllass("sadik"));
+
