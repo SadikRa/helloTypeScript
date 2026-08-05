@@ -70,3 +70,6 @@ console.log(currentDirection);
 // throws error as 'North' is not a valid enum
 
 ///https://www.w3schools.com/typescript/typescript_aliases_and_interfaces.php
+
+
+// well you could return i guess
