@@ -73,3 +73,4 @@ console.log(currentDirection);
 
 
 // well you could return i guess
+// only if you try
